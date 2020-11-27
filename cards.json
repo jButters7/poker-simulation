@@ -1,0 +1,262 @@
+[
+  {
+    "id": 0,
+    "rank": 2,
+    "suit": "HEARTS"
+  },
+  {
+    "id": 1,
+    "rank": 3,
+    "suit": "HEARTS"
+  },
+  {
+    "id": 2,
+    "rank": 4,
+    "suit": "HEARTS"
+  },
+  {
+    "id": 3,
+    "rank": 5,
+    "suit": "HEARTS"
+  },
+  {
+    "id": 4,
+    "rank": 6,
+    "suit": "HEARTS"
+  },
+  {
+    "id": 5,
+    "rank": 7,
+    "suit": "HEARTS"
+  },
+  {
+    "id": 6,
+    "rank": 8,
+    "suit": "HEARTS"
+  },
+  {
+    "id": 7,
+    "rank": 9,
+    "suit": "HEARTS"
+  },
+  {
+    "id": 8,
+    "rank": 10,
+    "suit": "HEARTS"
+  },
+  {
+    "id": 9,
+    "rank": 11,
+    "suit": "HEARTS"
+  },
+  {
+    "id": 10,
+    "rank": 12,
+    "suit": "HEARTS"
+  },
+  {
+    "id": 11,
+    "rank": 13,
+    "suit": "HEARTS"
+  },
+  {
+    "id": 12,
+    "rank": 14,
+    "suit": "HEARTS"
+  },
+  {
+    "id": 13,
+    "rank": 2,
+    "suit": "CLUBS"
+  },
+  {
+    "id": 14,
+    "rank": 3,
+    "suit": "CLUBS"
+  },
+  {
+    "id": 15,
+    "rank": 4,
+    "suit": "CLUBS"
+  },
+  {
+    "id": 16,
+    "rank": 5,
+    "suit": "CLUBS"
+  },
+  {
+    "id": 17,
+    "rank": 6,
+    "suit": "CLUBS"
+  },
+  {
+    "id": 18,
+    "rank": 7,
+    "suit": "CLUBS"
+  },
+  {
+    "id": 19,
+    "rank": 8,
+    "suit": "CLUBS"
+  },
+  {
+    "id": 20,
+    "rank": 9,
+    "suit": "CLUBS"
+  },
+  {
+    "id": 21,
+    "rank": 10,
+    "suit": "CLUBS"
+  },
+  {
+    "id": 22,
+    "rank": 11,
+    "suit": "CLUBS"
+  },
+  {
+    "id": 23,
+    "rank": 12,
+    "suit": "CLUBS"
+  },
+  {
+    "id": 24,
+    "rank": 13,
+    "suit": "CLUBS"
+  },
+  {
+    "id": 25,
+    "rank": 14,
+    "suit": "CLUBS"
+  },
+  {
+    "id": 26,
+    "rank": 2,
+    "suit": "DIAMONDS"
+  },
+  {
+    "id": 27,
+    "rank": 3,
+    "suit": "DIAMONDS"
+  },
+  {
+    "id": 28,
+    "rank": 4,
+    "suit": "DIAMONDS"
+  },
+  {
+    "id": 29,
+    "rank": 5,
+    "suit": "DIAMONDS"
+  },
+  {
+    "id": 30,
+    "rank": 6,
+    "suit": "DIAMONDS"
+  },
+  {
+    "id": 31,
+    "rank": 7,
+    "suit": "DIAMONDS"
+  },
+  {
+    "id": 32,
+    "rank": 8,
+    "suit": "DIAMONDS"
+  },
+  {
+    "id": 33,
+    "rank": 9,
+    "suit": "DIAMONDS"
+  },
+  {
+    "id": 34,
+    "rank": 10,
+    "suit": "DIAMONDS"
+  },
+  {
+    "id": 35,
+    "rank": 11,
+    "suit": "DIAMONDS"
+  },
+  {
+    "id": 36,
+    "rank": 12,
+    "suit": "DIAMONDS"
+  },
+  {
+    "id": 37,
+    "rank": 13,
+    "suit": "DIAMONDS"
+  },
+  {
+    "id": 38,
+    "rank": 14,
+    "suit": "DIAMONDS"
+  },
+  {
+    "id": 39,
+    "rank": 2,
+    "suit": "SPADES"
+  },
+  {
+    "id": 40,
+    "rank": 3,
+    "suit": "SPADES"
+  },
+  {
+    "id": 41,
+    "rank": 4,
+    "suit": "SPADES"
+  },
+  {
+    "id": 42,
+    "rank": 5,
+    "suit": "SPADES"
+  },
+  {
+    "id": 43,
+    "rank": 6,
+    "suit": "SPADES"
+  },
+  {
+    "id": 44,
+    "rank": 7,
+    "suit": "SPADES"
+  },
+  {
+    "id": 45,
+    "rank": 8,
+    "suit": "SPADES"
+  },
+  {
+    "id": 46,
+    "rank": 9,
+    "suit": "SPADES"
+  },
+  {
+    "id": 47,
+    "rank": 10,
+    "suit": "SPADES"
+  },
+  {
+    "id": 48,
+    "rank": 11,
+    "suit": "SPADES"
+  },
+  {
+    "id": 49,
+    "rank": 12,
+    "suit": "SPADES"
+  },
+  {
+    "id": 50,
+    "rank": 13,
+    "suit": "SPADES"
+  },
+  {
+    "id": 51,
+    "rank": 14,
+    "suit": "SPADES"
+  }
+]
